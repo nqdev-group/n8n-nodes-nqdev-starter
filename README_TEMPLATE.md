@@ -41,6 +41,12 @@ _By the time users are looking for community nodes, they probably already know n
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/community-nodes/)
 * _Link to app/service documentation._
 
+## License
+
+[MIT](https://github.com/nqdev-group/n8n-nodes-nqdev-starter/blob/master/LICENSE.md)
+
+Icon CC0 licensed by [SVG Repo](https://www.svgrepo.com/svg/216693/bug)
+
 ## Version history
 
 _This is another optional section. If your node has multiple versions, include a short description of available versions and what changed, as well as any compatibility impact._

@@ -1,19 +1,21 @@
 {
-  "name": "n8n-nodes-<...>",
+  "name": "n8n-nodes-nqdev-<...>",
   "version": "0.1.0",
   "description": "",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "n8n-community-nqdev-node-package"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://docs.quyit.id.vn/affiliate/n8n-nodes-nqdev-<...>/?ref=n8n-nodes-nqdev-<...>",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "Quý Nguyễn",
+    "email": "quy.nh@nhquydev.net",
+    "url": "https://nhquydev.net"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "https://github.com/<...>/n8n-nodes-nqdev-<...>.git"
   },
   "engines": {
     "node": ">=18.10",

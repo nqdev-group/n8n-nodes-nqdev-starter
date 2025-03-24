@@ -43,4 +43,6 @@ Refer to our [documentation on creating nodes](https://docs.n8n.io/integrations/
 
 ## License
 
-[MIT](https://github.com/n8n-io/n8n-nodes-starter/blob/master/LICENSE.md)
+[MIT](https://github.com/nqdev-group/n8n-nodes-nqdev-starter/blob/master/LICENSE.md)
+
+Icon CC0 licensed by [SVG Repo](https://www.svgrepo.com/svg/216693/bug)
