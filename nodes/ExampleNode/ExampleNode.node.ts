@@ -4,7 +4,7 @@ import type {
   INodeType,
   INodeTypeDescription,
 } from 'n8n-workflow';
-import { NodeOperationError } from 'n8n-workflow';
+import { NodeConnectionType, NodeOperationError } from 'n8n-workflow';
 
 export class ExampleNode implements INodeType {
   description: INodeTypeDescription = {
@@ -16,8 +16,8 @@ export class ExampleNode implements INodeType {
     defaults: {
       name: 'Example Node',
     },
-    inputs: ['main'],
-    outputs: ['main'],
+    inputs: [NodeConnectionType.Main],
+    outputs: [NodeConnectionType.Main],
     credentials: [],
     // The properties the node will have available
     // Which the user gets displayed and can change on the node.
