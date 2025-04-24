@@ -8,8 +8,33 @@
 
 ## Integrations
 
-- [Build a node](https://docs.n8n.io/integrations/creating-nodes/build/)
-  - [Standard parameters](https://docs.n8n.io/integrations/creating-nodes/build/reference/node-base-files/standard-parameters/)
+### Community nodes
+
+- _Installation and management_
+  - [Manual installation](https://docs.n8n.io/integrations/community-nodes/installation/manual-install/)
+
+### Creating nodes
+
+- [Build your node](https://docs.n8n.io/integrations/creating-nodes/build/)
+  - [Build a declarative-style node](https://docs.n8n.io/integrations/creating-nodes/build/declarative-style-node/)
+  - _Reference_
+    - [Standard parameters](https://docs.n8n.io/integrations/creating-nodes/build/reference/node-base-files/standard-parameters/)
+- _Test your node_
+  - [Run your node locally](https://docs.n8n.io/integrations/creating-nodes/test/run-node-locally/)
+  - [Node linter](https://docs.n8n.io/integrations/creating-nodes/test/node-linter/)
+
+## Code in n8n
+
+- [Code in n8n](https://docs.n8n.io/code/code-node/)
+
+## Hosting n8n
+
+- [Hosting n8n](https://docs.n8n.io/hosting/)
+  - [API reference](https://docs.n8n.io/api/api-reference/)
+
+## REST API
+
+- [n8n public REST API](https://docs.n8n.io/api/)
 
 ## `n8n-nodes-nqdev-*` Directory Structure
 
@@ -53,3 +78,8 @@ n8n-nodes-nqdev-starter
 ├── pnpm-lock.yaml            # Tệp lock của pnpm (nếu sử dụng pnpm làm package manager)
 └── tsconfig.json             # Cấu hình TypeScript
 ```
+
+## News
+
+- [MCP Client tool & MCP Trigger nodes](https://community.n8n.io/t/we-re-adding-mcp-client-tool-mcp-trigger-nodes-try-them-now/99338)
+  - [GH: n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp)
