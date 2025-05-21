@@ -23,3 +23,5 @@ yarn.lock
 # Custom scripts
 run-build.bat
 run-open.bat
+*.orig
+pnpm-lock_*

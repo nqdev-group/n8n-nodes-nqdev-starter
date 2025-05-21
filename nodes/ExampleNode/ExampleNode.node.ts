@@ -18,6 +18,7 @@ export class ExampleNode implements INodeType {
     },
     inputs: [NodeConnectionType.Main],
     outputs: [NodeConnectionType.Main],
+		usableAsTool: true,
     credentials: [],
     // The properties the node will have available
     // Which the user gets displayed and can change on the node.
